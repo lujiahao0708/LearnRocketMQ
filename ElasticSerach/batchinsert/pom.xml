@@ -20,7 +20,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
         <spring.es.version>3.0.9.RELEASE</spring.es.version>
-        <elasticsearch.version>5.5.0</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <transport-netty3-client.version>5.5.0</transport-netty3-client.version>
 	</properties>
 
